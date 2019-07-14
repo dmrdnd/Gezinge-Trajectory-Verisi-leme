@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\yazlab2.1.1.dll.config
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\yazlab2.1.1.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\yazlab2.1.1.pdb
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\obj\Debug\yazlab2.1.1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\obj\Debug\yazlab2.1.1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\obj\Debug\yazlab2.1.1.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\obj\Debug\yazlab2.1.1.pdb
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\AjaxMin.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\WebGrease.dll
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Yazlab2.1\yazlab2.1.1\yazlab2.1.1\bin\System.Web.Optimization.xml
